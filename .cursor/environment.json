@@ -1,0 +1,17 @@
+{
+  "name": "info3360 — Web Dev",
+  "install": "cd /agent/repos/info3360 && npm ci",
+  "terminals": [
+    {
+      "name": "dev",
+      "command": "cd /agent/repos/info3360 && npm run dev",
+      "description": "Vite dev server for the INFO 3360 web app (http://localhost:5173)."
+    }
+  ],
+  "ports": [
+    {
+      "name": "vite dev server",
+      "port": 5173
+    }
+  ]
+}
