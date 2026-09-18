@@ -6,7 +6,7 @@ Date: 2026-09-18
 ## 0. Team repository of record
 
 - **Team repo (upstream):** https://github.com/EdTechForLearning/PREIShare-org-repo
-- **My fork (created in Step 3):** https://github.com/EthanJeppson/PREIShare-org-repo
+- **My fork (created in Step 3):** https://github.com/EthanJeppson/Forked-PREIShare-org-repo
 - I contribute by forking this repo and opening pull requests from my fork. I do not push to the team repo directly.
 
 ## 1. Product mission (my words)
